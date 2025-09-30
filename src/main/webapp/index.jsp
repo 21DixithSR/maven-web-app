@@ -8,7 +8,7 @@
     </style>
   </head>
   <body>
-    <h2>Welcome to My Styled Maven Web App!!</h2>
+    <h2>Welcome to My Styled Maven Web App!</h2>
     <h2>Second commite</h2>
     <p><a href="hello">Click here for HelloServlet</a></p>
   </body>
