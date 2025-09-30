@@ -9,6 +9,6 @@
   </head>
   <body>
     <h2>Welcome to My Styled Maven Web App!</h2>
-    <p><a href="hello">Click here for my GitHub Repo</a></p>
+    <p><a href="hello">Click here for HelloServlet</a></p>
   </body>
 </html>
