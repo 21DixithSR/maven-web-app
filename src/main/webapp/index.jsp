@@ -10,6 +10,7 @@
   <body>
     <h2>Welcome to My Styled Maven Web App!</h2>
     <h2>Second commit</h2>
+    <h2>3rd commit for testing POLL SMC</h2>
     <p><a href="hello">Click here for HelloServlet</a></p>
   </body>
 </html>
